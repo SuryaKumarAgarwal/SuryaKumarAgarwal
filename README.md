@@ -15,7 +15,7 @@
 - 🤝 Open for collaborations in frontend and backend web development.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time.
-- 🌐 Visit my [porfolio website](https://SuryaKumarAgarwal.github.io/).
+<!-- - 🌐 Visit my [porfolio website](https://github.com/SuryaKumarAgarwal). -->
 <!--
 **SuryaKumarAgarwal/SuryaKumarAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
